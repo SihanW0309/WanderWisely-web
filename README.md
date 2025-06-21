@@ -33,6 +33,7 @@ Demo video for final project poster: https://www.youtube.com/watch?v=YmIxFJeH0FA
 
 --
 WanderWisely is a web application developed as part of the team project for CSE 6242: Data and Visual Analytics at Georgia Tech in 2023 spring.
+
 Project collaborators:
 [Boyan Ren](https://github.com/BaiyanRen)
 [Liangqu Chen](https://github.com/donotdonuts)
