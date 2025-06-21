@@ -1,0 +1,19 @@
+NPS:
+  # API url
+  API:
+    get_activities_url: "https://developer.nps.gov/api/v1/activities"
+    get_activity_related_park_url: "https://developer.nps.gov/api/v1/activities/parks"
+    get_amenities_url: "https://developer.nps.gov/api/v1/amenities"
+    get_amenity_related_park_url: "https://developer.nps.gov/api/v1/amenities/parksplaces"
+    get_places_url: "https://developer.nps.gov/api/v1/places"
+    get_campground_url: "https://developer.nps.gov/api/v1/campgrounds"
+    get_thingstodo_url: "https://developer.nps.gov/api/v1/thingstodo"
+  # filename
+  filename:
+    activities: activity.csv
+    activity_related_parks: activity_related_parks.csv
+    amenities: amenities.csv
+    amenity_related_parks: amenity_related_parks.csv
+    park_related_places: park_related_places.csv
+    campground: campground.csv
+    thingstodo: thingstodo.csv
