@@ -28,10 +28,11 @@ Or without any installation, you can also access our website deployed by Heroku 
 
 
 Demo Video for installation on your local machine: https://youtu.be/G7u4Q5GuoJM
+
 Demo video for final project poster: https://www.youtube.com/watch?v=YmIxFJeH0FA
 
 --
-WanderWisely is a web application developed as part of the team project for CSE 6242: Data and Visual Analytics at Georgia Tech.
+WanderWisely is a web application developed as part of the team project for CSE 6242: Data and Visual Analytics at Georgia Tech in 2023 spring.
 Project collaborators:
 [Boyan Ren](https://github.com/BaiyanRen)
 [Liangqu Chen](https://github.com/donotdonuts)
